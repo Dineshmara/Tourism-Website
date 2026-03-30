@@ -79,11 +79,7 @@ cd tourism-website
 
 3. Open `index.html` in your browser
 
----
 
-## 📸 Screenshots
-
-(Add screenshots of Home, Favourite Places, and Detailed View sections)
 
 ---
 
@@ -109,7 +105,7 @@ cd tourism-website
 
 For any queries or suggestions:
 
-📩 [your-email@example.com](mailto:your-email@example.com)
+📩 [dineshmara536@gmail.com)
 
 ---
 
