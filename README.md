@@ -68,7 +68,7 @@ tourism-website/
 1. Clone the repository:
 
 ```id="cmd001"
-git clone https://github.com/your-username/tourism-website.git
+git clone https://github.com/dineshmara/tourism-website.git
 ```
 
 2. Open the project folder:
