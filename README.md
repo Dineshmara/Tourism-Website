@@ -6,7 +6,7 @@ A responsive tourism website built using HTML, CSS, and Bootstrap. This project 
 
 ## 🚀 Live Demo
 
-(Add your deployed link here – GitHub Pages / Netlify)
+(https://github.com/Dineshmara/Tourism-Website.git – GitHub Pages)
 
 ---
 
